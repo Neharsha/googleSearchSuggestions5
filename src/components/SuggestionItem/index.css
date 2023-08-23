@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.suggestionItemContainer {
+  display: flex;
+  flex-direction: row;
+}
+.arrow {
+  margin-left: 30px;
+  height: 20px;
+  width: 30px;
+  margin-top: 20px;
+}
+.suggestion {
+  color: #64748b;
+}
